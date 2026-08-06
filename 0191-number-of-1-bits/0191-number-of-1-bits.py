@@ -4,7 +4,7 @@ class Solution:
         while n:
             if(n&1):
                 count+=1
-            n//=2
+            n>>=1
         return count
 
         
