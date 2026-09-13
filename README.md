@@ -23,5 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/viveksirji/Problem_solving/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/viveksirji/Problem_solving/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/viveksirji/Problem_solving/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/viveksirji/Problem_solving/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
