@@ -48,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/viveksirji/Problem_solving/tree/master/0345-reverse-vowels-of-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/viveksirji/Problem_solving/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/viveksirji/Problem_solving/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
