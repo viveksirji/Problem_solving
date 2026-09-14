@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/viveksirji/Problem_solving/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/viveksirji/Problem_solving/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/viveksirji/Problem_solving/tree/master/0492-construct-the-rectangle) |
+| [0836-rectangle-overlap](https://github.com/viveksirji/Problem_solving/tree/master/0836-rectangle-overlap) |
 ## Number Theory
 |  |
 | ------- |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/viveksirji/Problem_solving/tree/master/0459-repeated-substring-pattern) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/viveksirji/Problem_solving/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
