@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/viveksirji/Problem_solving/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/viveksirji/Problem_solving/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/viveksirji/Problem_solving/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/viveksirji/Problem_solving/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/viveksirji/Problem_solving/tree/master/0492-construct-the-rectangle) |
 ## Number Theory
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/viveksirji/Problem_solving/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/viveksirji/Problem_solving/tree/master/0441-arranging-coins) |
 ## Interactive
 |  |
 | ------- |
