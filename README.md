@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/viveksirji/Problem_solving/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/viveksirji/Problem_solving/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/viveksirji/Problem_solving/tree/master/0459-repeated-substring-pattern) |
+| [0482-license-key-formatting](https://github.com/viveksirji/Problem_solving/tree/master/0482-license-key-formatting) |
 ## Counting
 |  |
 | ------- |
