@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/viveksirji/Problem_solving/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/viveksirji/Problem_solving/tree/master/0263-ugly-number) |
+| [0492-construct-the-rectangle](https://github.com/viveksirji/Problem_solving/tree/master/0492-construct-the-rectangle) |
 ## Number Theory
 |  |
 | ------- |
