@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/viveksirji/Problem_solving/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/viveksirji/Problem_solving/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/viveksirji/Problem_solving/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/viveksirji/Problem_solving/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/viveksirji/Problem_solving/tree/master/0263-ugly-number) |
+| [0412-fizz-buzz](https://github.com/viveksirji/Problem_solving/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/viveksirji/Problem_solving/tree/master/0492-construct-the-rectangle) |
 ## Number Theory
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/viveksirji/Problem_solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/viveksirji/Problem_solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/viveksirji/Problem_solving/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/viveksirji/Problem_solving/tree/master/0412-fizz-buzz) |
 ## Counting
 |  |
 | ------- |
