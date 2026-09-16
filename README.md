@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/viveksirji/Problem_solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/viveksirji/Problem_solving/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/viveksirji/Problem_solving/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/viveksirji/Problem_solving/tree/master/0836-rectangle-overlap) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/viveksirji/Problem_solving/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
