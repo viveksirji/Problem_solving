@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/viveksirji/Problem_solving/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/viveksirji/Problem_solving/tree/master/0492-construct-the-rectangle) |
 | [0836-rectangle-overlap](https://github.com/viveksirji/Problem_solving/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/viveksirji/Problem_solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Number Theory
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/viveksirji/Problem_solving/tree/master/0392-is-subsequence) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/viveksirji/Problem_solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## String Matching
 |  |
 | ------- |
@@ -107,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/viveksirji/Problem_solving/tree/master/0876-middle-of-the-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/viveksirji/Problem_solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Prefix Sum
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/viveksirji/Problem_solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
