@@ -29,4 +29,4 @@ class Solution:
             else:
                 pB = headA
 
-        return pA
+        return pB
