@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/viveksirji/Problem_solving/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/viveksirji/Problem_solving/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/viveksirji/Problem_solving/tree/master/0495-teemo-attacking) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/viveksirji/Problem_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1929-concatenation-of-array](https://github.com/viveksirji/Problem_solving/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/viveksirji/Problem_solving/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/viveksirji/Problem_solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/viveksirji/Problem_solving/tree/master/0387-first-unique-character-in-a-string) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/viveksirji/Problem_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/viveksirji/Problem_solving/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/viveksirji/Problem_solving/tree/master/0441-arranging-coins) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/viveksirji/Problem_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Interactive
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/viveksirji/Problem_solving/tree/master/0392-is-subsequence) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/viveksirji/Problem_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/viveksirji/Problem_solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## String Matching
 |  |
@@ -117,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/viveksirji/Problem_solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/viveksirji/Problem_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
