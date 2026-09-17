@@ -11,18 +11,25 @@
 class Solution:
     def getIntersectionNode(self, headA: Optional[ListNode], headB: Optional[ListNode]) -> Optional[ListNode]:
 
-        pA = headA
-        pB = headB
-        while pA != pB:
+        # Store all nodes from List A in a set
+        visited = set()
 
-            if pA:
-                pA = pA.next
-            else:
-                pA = headB
+        curr = headA
 
-            if pB:
-                pB = pB.next
-            else:
-                pB = headA
+        while curr:
+            visited.add(curr)
+            curr = curr.next
 
-        return pA
+        # Traverse List B and check whether
+        # any node is already present in the set
+        curr = headB
+
+        while curr:
+            if curr in visited:
+                return curr
+
+            curr = curr.next
+
+        # No intersection found
+        return None
+
