@@ -13,10 +13,6 @@ class Solution:
 
         pA = headA
         pB = headB
-
-        # Each pointer traverses both lists.
-        # They will meet at the intersection node or None.
-
         while pA != pB:
 
             if pA:
@@ -29,4 +25,4 @@ class Solution:
             else:
                 pB = headA
 
-        return pB
+        return pA
