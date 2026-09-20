@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/viveksirji/Problem_solving/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/viveksirji/Problem_solving/tree/master/0495-teemo-attacking) |
 | [1929-concatenation-of-array](https://github.com/viveksirji/Problem_solving/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/viveksirji/Problem_solving/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/viveksirji/Problem_solving/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/viveksirji/Problem_solving/tree/master/0482-license-key-formatting) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/viveksirji/Problem_solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/viveksirji/Problem_solving/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
