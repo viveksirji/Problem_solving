@@ -7,17 +7,13 @@ class Solution:
     def deleteMiddle(self, head: ListNode | None) -> ListNode | None:
         if head.next is None:
             return None
-        n=0
-        current=head
-        
-        while current:
-            n+=1
-            current=current.next
-        mid=n//2
-        current=head
-        for i in range(mid-1):
-            current=current.next
-        current.next=current.next.next
+        pre=None
+        slow,fast=head,head
+        while fast and fast.next:
+            prev=slow
+            slow=slow.next
+            fast=fast.next.next
+        prev.next=slow.next
         return head
     
         
