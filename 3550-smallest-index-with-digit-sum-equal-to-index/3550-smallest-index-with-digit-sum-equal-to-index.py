@@ -1,6 +1,5 @@
 class Solution:
     def smallestIndex(self, nums: List[int]) -> int:
-        r=[]
         
         for i in range(len(nums)):
             s=0
