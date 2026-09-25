@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/viveksirji/Problem_solving/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/viveksirji/Problem_solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/viveksirji/Problem_solving/tree/master/0387-first-unique-character-in-a-string) |
+| [1096-brace-expansion-ii](https://github.com/viveksirji/Problem_solving/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/viveksirji/Problem_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/viveksirji/Problem_solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/viveksirji/Problem_solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/viveksirji/Problem_solving/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/viveksirji/Problem_solving/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/viveksirji/Problem_solving/tree/master/0482-license-key-formatting) |
+| [1096-brace-expansion-ii](https://github.com/viveksirji/Problem_solving/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/viveksirji/Problem_solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/viveksirji/Problem_solving/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
@@ -160,11 +162,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/viveksirji/Problem_solving/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/viveksirji/Problem_solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/viveksirji/Problem_solving/tree/master/0042-trapping-rain-water) |
+| [1096-brace-expansion-ii](https://github.com/viveksirji/Problem_solving/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -173,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/viveksirji/Problem_solving/tree/master/0141-linked-list-cycle) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/viveksirji/Problem_solving/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/viveksirji/Problem_solving/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
