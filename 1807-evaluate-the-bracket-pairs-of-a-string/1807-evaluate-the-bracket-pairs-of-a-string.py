@@ -1,17 +1,23 @@
 class Solution:
     def evaluate(self, s: str, knowledge: list[list[str]]) -> str:
-        d = dict(knowledge)
-        result = []
+        d = {}
+        for pair in knowledge:
+            d[pair[0]] = pair[1]
+        result = ""
         i = 0
         while i < len(s):
             if s[i] != '(':
-                result.append(s[i])
+                result += s[i]
                 i += 1
             else:
-                j = i + 1
-                while s[j] != ')':
-                    j += 1
-                key = s[i + 1:j]
-                result.append(d.get(key, '?'))
-                i = j + 1
-        return ''.join(result)
+                i += 1
+                key = ""
+                while s[i] != ')':
+                    key += s[i]
+                    i += 1
+                if key in d:
+                    result += d[key]
+                else:
+                    result += '?'
+                i += 1
+        return result
