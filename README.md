@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/viveksirji/Problem_solving/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/viveksirji/Problem_solving/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/viveksirji/Problem_solving/tree/master/0042-trapping-rain-water) |
 | [0485-max-consecutive-ones](https://github.com/viveksirji/Problem_solving/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/viveksirji/Problem_solving/tree/master/0495-teemo-attacking) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/viveksirji/Problem_solving/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/viveksirji/Problem_solving/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/viveksirji/Problem_solving/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/viveksirji/Problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0299-bulls-and-cows](https://github.com/viveksirji/Problem_solving/tree/master/0299-bulls-and-cows) |
@@ -225,5 +227,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/viveksirji/Problem_solving/tree/master/0036-valid-sudoku) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/viveksirji/Problem_solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
