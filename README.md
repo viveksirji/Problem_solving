@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/viveksirji/Problem_solving/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/viveksirji/Problem_solving/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/viveksirji/Problem_solving/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/viveksirji/Problem_solving/tree/master/0078-subsets) |
 | [0485-max-consecutive-ones](https://github.com/viveksirji/Problem_solving/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/viveksirji/Problem_solving/tree/master/0495-teemo-attacking) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/viveksirji/Problem_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/viveksirji/Problem_solving/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/viveksirji/Problem_solving/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/viveksirji/Problem_solving/tree/master/0476-number-complement) |
 ## Simulation
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/viveksirji/Problem_solving/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/viveksirji/Problem_solving/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/viveksirji/Problem_solving/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/viveksirji/Problem_solving/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
