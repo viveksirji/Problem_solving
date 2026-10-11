@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/viveksirji/Problem_solving/tree/master/1929-concatenation-of-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/viveksirji/Problem_solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/viveksirji/Problem_solving/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/viveksirji/Problem_solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3524-find-x-value-of-array-i](https://github.com/viveksirji/Problem_solving/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/viveksirji/Problem_solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -251,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/viveksirji/Problem_solving/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/viveksirji/Problem_solving/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
