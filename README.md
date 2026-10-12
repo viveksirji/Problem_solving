@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/viveksirji/Problem_solving/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/viveksirji/Problem_solving/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/viveksirji/Problem_solving/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/viveksirji/Problem_solving/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/viveksirji/Problem_solving/tree/master/0476-number-complement) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/viveksirji/Problem_solving/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/viveksirji/Problem_solving/tree/master/0007-reverse-integer) |
+| [0231-power-of-two](https://github.com/viveksirji/Problem_solving/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/viveksirji/Problem_solving/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/viveksirji/Problem_solving/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/viveksirji/Problem_solving/tree/master/0268-missing-number) |
@@ -277,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/viveksirji/Problem_solving/tree/master/2778-sum-of-squares-of-special-elements) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/viveksirji/Problem_solving/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
