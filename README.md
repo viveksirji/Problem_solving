@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/viveksirji/Problem_solving/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/viveksirji/Problem_solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/viveksirji/Problem_solving/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/viveksirji/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/viveksirji/Problem_solving/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/viveksirji/Problem_solving/tree/master/0495-teemo-attacking) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/viveksirji/Problem_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/viveksirji/Problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/viveksirji/Problem_solving/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/viveksirji/Problem_solving/tree/master/0299-bulls-and-cows) |
+| [0349-intersection-of-two-arrays](https://github.com/viveksirji/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/viveksirji/Problem_solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/viveksirji/Problem_solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1096-brace-expansion-ii](https://github.com/viveksirji/Problem_solving/tree/master/1096-brace-expansion-ii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/viveksirji/Problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/viveksirji/Problem_solving/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/viveksirji/Problem_solving/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/viveksirji/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/viveksirji/Problem_solving/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/viveksirji/Problem_solving/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/viveksirji/Problem_solving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/viveksirji/Problem_solving/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/viveksirji/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/viveksirji/Problem_solving/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/viveksirji/Problem_solving/tree/master/0441-arranging-coins) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/viveksirji/Problem_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/viveksirji/Problem_solving/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/viveksirji/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [1096-brace-expansion-ii](https://github.com/viveksirji/Problem_solving/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/viveksirji/Problem_solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/viveksirji/Problem_solving/tree/master/2333-minimum-sum-of-squared-difference) |
