@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/viveksirji/Problem_solving/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/viveksirji/Problem_solving/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/viveksirji/Problem_solving/tree/master/0078-subsets) |
+| [0283-move-zeroes](https://github.com/viveksirji/Problem_solving/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/viveksirji/Problem_solving/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/viveksirji/Problem_solving/tree/master/0495-teemo-attacking) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/viveksirji/Problem_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/viveksirji/Problem_solving/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/viveksirji/Problem_solving/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/viveksirji/Problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/viveksirji/Problem_solving/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/viveksirji/Problem_solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/viveksirji/Problem_solving/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/viveksirji/Problem_solving/tree/master/0876-middle-of-the-linked-list) |
