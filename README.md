@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/viveksirji/Problem_solving/tree/master/0495-teemo-attacking) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/viveksirji/Problem_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/viveksirji/Problem_solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1672-richest-customer-wealth](https://github.com/viveksirji/Problem_solving/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/viveksirji/Problem_solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/viveksirji/Problem_solving/tree/master/1929-concatenation-of-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/viveksirji/Problem_solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/viveksirji/Problem_solving/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/viveksirji/Problem_solving/tree/master/0054-spiral-matrix) |
+| [1672-richest-customer-wealth](https://github.com/viveksirji/Problem_solving/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/viveksirji/Problem_solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Heap (Priority Queue)
 |  |
