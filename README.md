@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/viveksirji/Problem_solving/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/viveksirji/Problem_solving/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/viveksirji/Problem_solving/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/viveksirji/Problem_solving/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/viveksirji/Problem_solving/tree/master/0054-spiral-matrix) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/viveksirji/Problem_solving/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/viveksirji/Problem_solving/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/viveksirji/Problem_solving/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/viveksirji/Problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/viveksirji/Problem_solving/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/viveksirji/Problem_solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/viveksirji/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [1096-brace-expansion-ii](https://github.com/viveksirji/Problem_solving/tree/master/1096-brace-expansion-ii) |
