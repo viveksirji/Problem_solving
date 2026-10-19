@@ -6,6 +6,9 @@ class Solution:
             if rem in dic:
                 return [dic[rem],i]
             dic[nums[i]]=i
+
+       
+      
         
 
         
