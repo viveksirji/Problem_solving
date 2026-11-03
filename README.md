@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/viveksirji/Problem_solving/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/viveksirji/Problem_solving/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/viveksirji/Problem_solving/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/viveksirji/Problem_solving/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/viveksirji/Problem_solving/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/viveksirji/Problem_solving/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/viveksirji/Problem_solving/tree/master/0078-subsets) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/viveksirji/Problem_solving/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/viveksirji/Problem_solving/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/viveksirji/Problem_solving/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/viveksirji/Problem_solving/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/viveksirji/Problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/viveksirji/Problem_solving/tree/master/0268-missing-number) |
