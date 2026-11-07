@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/viveksirji/Problem_solving/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/viveksirji/Problem_solving/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/viveksirji/Problem_solving/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/viveksirji/Problem_solving/tree/master/0258-add-digits) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/viveksirji/Problem_solving/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/viveksirji/Problem_solving/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/viveksirji/Problem_solving/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/viveksirji/Problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/viveksirji/Problem_solving/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/viveksirji/Problem_solving/tree/master/0231-power-of-two) |
 ## Binary Indexed Tree
 |  |
