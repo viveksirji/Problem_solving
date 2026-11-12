@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/viveksirji/Problem_solving/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/viveksirji/Problem_solving/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/viveksirji/Problem_solving/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/viveksirji/Problem_solving/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/viveksirji/Problem_solving/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/viveksirji/Problem_solving/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/viveksirji/Problem_solving/tree/master/0268-missing-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/viveksirji/Problem_solving/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/viveksirji/Problem_solving/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/viveksirji/Problem_solving/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/viveksirji/Problem_solving/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/viveksirji/Problem_solving/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/viveksirji/Problem_solving/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/viveksirji/Problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/viveksirji/Problem_solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/viveksirji/Problem_solving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/viveksirji/Problem_solving/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/viveksirji/Problem_solving/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/viveksirji/Problem_solving/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/viveksirji/Problem_solving/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/viveksirji/Problem_solving/tree/master/0299-bulls-and-cows) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/viveksirji/Problem_solving/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/viveksirji/Problem_solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/viveksirji/Problem_solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/viveksirji/Problem_solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/viveksirji/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
