@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/viveksirji/Problem_solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/viveksirji/Problem_solving/tree/master/0492-construct-the-rectangle) |
 | [0836-rectangle-overlap](https://github.com/viveksirji/Problem_solving/tree/master/0836-rectangle-overlap) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/viveksirji/Problem_solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/viveksirji/Problem_solving/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/viveksirji/Problem_solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/viveksirji/Problem_solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
