@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/viveksirji/Problem_solving/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/viveksirji/Problem_solving/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/viveksirji/Problem_solving/tree/master/0078-subsets) |
+| [0217-contains-duplicate](https://github.com/viveksirji/Problem_solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/viveksirji/Problem_solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/viveksirji/Problem_solving/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/viveksirji/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/viveksirji/Problem_solving/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/viveksirji/Problem_solving/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/viveksirji/Problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/viveksirji/Problem_solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/viveksirji/Problem_solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/viveksirji/Problem_solving/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/viveksirji/Problem_solving/tree/master/0299-bulls-and-cows) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/viveksirji/Problem_solving/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/viveksirji/Problem_solving/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/viveksirji/Problem_solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/viveksirji/Problem_solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/viveksirji/Problem_solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/viveksirji/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
