@@ -5,5 +5,6 @@ class Solution:
             for j in jewels:
                 if i==j:
                     count+=1
+                    break
         return count
         
