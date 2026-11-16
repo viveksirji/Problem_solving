@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/viveksirji/Problem_solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/viveksirji/Problem_solving/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/viveksirji/Problem_solving/tree/master/0495-teemo-attacking) |
+| [0560-subarray-sum-equals-k](https://github.com/viveksirji/Problem_solving/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/viveksirji/Problem_solving/tree/master/0739-daily-temperatures) |
 | [1254-number-of-closed-islands](https://github.com/viveksirji/Problem_solving/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/viveksirji/Problem_solving/tree/master/1267-count-servers-that-communicate) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/viveksirji/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/viveksirji/Problem_solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/viveksirji/Problem_solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/viveksirji/Problem_solving/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/viveksirji/Problem_solving/tree/master/0771-jewels-and-stones) |
 | [1096-brace-expansion-ii](https://github.com/viveksirji/Problem_solving/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/viveksirji/Problem_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/viveksirji/Problem_solving/tree/master/0560-subarray-sum-equals-k) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/viveksirji/Problem_solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/viveksirji/Problem_solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/viveksirji/Problem_solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
