@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/viveksirji/Problem_solving/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/viveksirji/Problem_solving/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/viveksirji/Problem_solving/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/viveksirji/Problem_solving/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/viveksirji/Problem_solving/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/viveksirji/Problem_solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/viveksirji/Problem_solving/tree/master/0268-missing-number) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/viveksirji/Problem_solving/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/viveksirji/Problem_solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/viveksirji/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/viveksirji/Problem_solving/tree/master/0374-guess-number-higher-or-lower) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/viveksirji/Problem_solving/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/viveksirji/Problem_solving/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/viveksirji/Problem_solving/tree/master/0074-search-a-2d-matrix) |
 | [1254-number-of-closed-islands](https://github.com/viveksirji/Problem_solving/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/viveksirji/Problem_solving/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/viveksirji/Problem_solving/tree/master/1672-richest-customer-wealth) |
