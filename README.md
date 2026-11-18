@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/viveksirji/Problem_solving/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/viveksirji/Problem_solving/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/viveksirji/Problem_solving/tree/master/0078-subsets) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/viveksirji/Problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/viveksirji/Problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/viveksirji/Problem_solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/viveksirji/Problem_solving/tree/master/0268-missing-number) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/viveksirji/Problem_solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/viveksirji/Problem_solving/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/viveksirji/Problem_solving/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/viveksirji/Problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/viveksirji/Problem_solving/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/viveksirji/Problem_solving/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/viveksirji/Problem_solving/tree/master/0263-ugly-number) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/viveksirji/Problem_solving/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/viveksirji/Problem_solving/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/viveksirji/Problem_solving/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/viveksirji/Problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0678-valid-parenthesis-string](https://github.com/viveksirji/Problem_solving/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/viveksirji/Problem_solving/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/viveksirji/Problem_solving/tree/master/0739-daily-temperatures) |
