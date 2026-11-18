@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/viveksirji/Problem_solving/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/viveksirji/Problem_solving/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/viveksirji/Problem_solving/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/viveksirji/Problem_solving/tree/master/0844-backspace-string-compare) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/viveksirji/Problem_solving/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/viveksirji/Problem_solving/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/viveksirji/Problem_solving/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/viveksirji/Problem_solving/tree/master/0482-license-key-formatting) |
 | [0678-valid-parenthesis-string](https://github.com/viveksirji/Problem_solving/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/viveksirji/Problem_solving/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/viveksirji/Problem_solving/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/viveksirji/Problem_solving/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/viveksirji/Problem_solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/viveksirji/Problem_solving/tree/master/1021-remove-outermost-parentheses) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/viveksirji/Problem_solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/viveksirji/Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/viveksirji/Problem_solving/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/viveksirji/Problem_solving/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/viveksirji/Problem_solving/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/viveksirji/Problem_solving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/viveksirji/Problem_solving/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/viveksirji/Problem_solving/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/viveksirji/Problem_solving/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/viveksirji/Problem_solving/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/viveksirji/Problem_solving/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/viveksirji/Problem_solving/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/viveksirji/Problem_solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/viveksirji/Problem_solving/tree/master/1021-remove-outermost-parentheses) |
