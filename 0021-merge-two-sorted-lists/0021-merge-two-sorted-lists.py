@@ -13,12 +13,12 @@ class Solution:
             stack.append(list2.val)
             list2=list2.next
         stack.sort()
-        dummy=head=ListNode()
+        head=dummy=ListNode()
         for i in stack:
             head.next=ListNode(i)
             head=head.next
         return dummy.next
-
+       
 
        
         
