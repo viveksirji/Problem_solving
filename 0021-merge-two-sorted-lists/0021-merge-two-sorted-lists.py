@@ -5,22 +5,20 @@
 #         self.next = next
 class Solution:
     def mergeTwoLists(self, list1, list2):
-        dummy=current=ListNode()
-        while list1 and list2:
-
-            if list1.val<list2.val:
-                current.next=list1
-                list1=list1.next
-                current=current.next
-            else:
-                current.next=list2
-                list2=list2.next
-                current=current.next
-        if list1:
-            current.next=list1
-        else:
-            current.next=list2
+        stack=[]
+        while list1:
+            stack.append(list1.val)
+            list1=list1.next
+        while list2:
+            stack.append(list2.val)
+            list2=list2.next
+        stack.sort()
+        curr=dummy=ListNode()
+        for i in stack:
+            curr.next=ListNode(i)
+            curr=curr.next
         return dummy.next
+        
 
 
         
